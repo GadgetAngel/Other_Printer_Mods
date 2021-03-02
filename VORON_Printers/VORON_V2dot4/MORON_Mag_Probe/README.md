@@ -10,3 +10,4 @@ Requires the following:
  - 2x M2x12mm Plastite Screw
  - Some Wire
  
+Use the macros, located here: https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/blob/master/All_Printers/Microswitch_Probe/Klipper_Macros/dockable_probe_macros.cfg
