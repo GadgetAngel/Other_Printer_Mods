@@ -9,7 +9,7 @@ No buildvolume is lost since the probe can be docked in the 10mm y overtravel of
 Hardware needed:
 -4x M3 nut
 -2x M2x8 self tapping screw
--6x 6x3 magnets
+-10x 6x3 magnets
 -Omron D2F-5 (No substitutes!)
 -4x DIN912 M3x12
 -2x DIN912 M3x8
