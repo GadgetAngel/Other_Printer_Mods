@@ -5,6 +5,8 @@ This new probe is completely solderless and has many benefits such as actually p
 For pickup detection probe_query or a circuit with the dock can be made. Crimp two male SM2.54 on a cable to connect the magnets of the x carriage.
 No buildvolume is lost since the probe can be docked in the 10mm y overtravel of the V2.4
 
+MGN12H version is build on the VoronUsers [MGN12 mod by Arkeet](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12).
+
 
 Hardware needed:
 -4x M3 nut
