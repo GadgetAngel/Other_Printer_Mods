@@ -6,7 +6,7 @@
 ## What is it?
 This new z joint has been developed for Redoubt but is backwards compatible with V2.2 and V2.4. The main advantage being that the gantry is now 13mm closer to the linear rails. Internal testing has shown that there is a noticeable improvement and less ringing for the Y axis. The ball head screw also allows the gantry to move smoothly in the printed part in comparison to the old design where layer lines rubbed each other. The pre-tensioning mechanism allows you to have zero play in the joint. The belt clips don’t have to come loose to swap the z joint and lastly due to its compact size full travel of the linear rails is possible. Compatible with a 0.6 nozzle and 0.3LH.
 
-![picture](Images/Archive/Release_1/Images/3.png)
+![picture](Images/Resonances.png)
 
 ## Changes from revision 1:
 
