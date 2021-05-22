@@ -1,6 +1,6 @@
 # ANNEX Microswitch probe
 
-![picture](Images/Evolution.JPG)
+![picture](Images/Evolution.jpg)
 
 ## What is it?
 Summarized the magprobe is a microswitch that can dock and undock on the toolhead of your printer. It touches the surface to make measurements. The magprobe has evolved a lot over time. Initially started as idea to keep a printer with broken inductive going with a cheap fix. Mental took the first steps to adapt it to a V2. Many branches rolled out of this design like the Piton probe. (https://github.com/Annex-Engineering/Annex_Engineering_PCBs/tree/master/piton_probe)
@@ -17,11 +17,11 @@ To assemble the magprobe push in the 2 6x3mm magnets against the pin of the swit
 
 At the carriage side make 2 stacks of alternating polarity (it helps undocking). Crimp a male SM2.54 connector onto a cable and slide it against the magnets flush.
 
-![picture](Images/Instructions.JPG)
+![picture](Images/Instructions.png)
 
 If you want to make use of probe dock detection crimp a male SM2.54 connector on a cable and clamp the flat part between the 2 magnets as pictured left. Additionally you need to bridge the M2 screws. This can be done by washers or a piece of hidden aluminum foil inside.
 
-![picture](Images/Instructions_2.JPG)
+![picture](Images/Instructions_2.png)
 
 ## Support
 If you need help assembling or have any other questions you are more them welcome in our Discord server. You can join us through this link here: https://discord.gg/MzTR3zE
