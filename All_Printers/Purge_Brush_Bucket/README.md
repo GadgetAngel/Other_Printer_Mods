@@ -1,6 +1,6 @@
 ## Purge brush bucket
 
-![picture](Images/1.PNG)
+![picture](Images/1.JPG)
 
 
 ## What is it?
