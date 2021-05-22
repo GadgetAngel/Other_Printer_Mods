@@ -18,8 +18,6 @@ For pickup detection probe_query or a circuit with the dock can be made. No buil
 
 
 ## Resources
-Sherpa mini and hotend toolheads: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
-
 Installation instructions magprobe: https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
  
 
