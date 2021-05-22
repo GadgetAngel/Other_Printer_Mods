@@ -28,9 +28,9 @@ Its recommended to cut the center pin short on the switch. If you ever please to
 
 
 ## Gallery
-![picture](Gallery_1.jpg)
+![picture](Images/Gallery_1.jpg)
 
-![picture](Gallery_2.png)
+![picture](Images/Gallery_2.png)
 
 ## Support
 If you need help assembling or have any other questions you are more them welcome in our Discord server. You can join us through this link here: https://discord.gg/MzTR3zE
