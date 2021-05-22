@@ -13,7 +13,7 @@ Testing has shown the best switch for repeatability is the Omron D2F-5. You can 
 It is recommended to run Klipper (https://github.com/KevinOConnor/klipper). As of today theres already a macro available in the folders. We are working on an integrated klipper module.
 
 ## General installation instructions
-To assemble the magprobe push in the 2 6x3mm magnets against the pin of the switch. (Use the Omron D2F-5 or D2F 5-L with lever removed. No substitutes) 
+To assemble the magprobe push in the 2 6x3mm magnets against the pin of the switch. (Use the Omron D2F-5 or D2F 5L with lever removed. No substitutes) 
 
 At the carriage side make 2 stacks of alternating polarity (it helps undocking). Crimp a male SM2.54 connector onto a cable and slide it against the magnets flush.
 
@@ -22,6 +22,15 @@ At the carriage side make 2 stacks of alternating polarity (it helps undocking).
 If you want to make use of probe dock detection crimp a male SM2.54 connector on a cable and clamp the flat part between the 2 magnets as pictured left. Additionally you need to bridge the M2 screws. This can be done by washers or a piece of hidden aluminum foil inside.
 
 ![picture](Images/Instructions_2.png)
+
+
+Its recommended to cut the center pin short on the switch. If you ever please to disassemble you can push out the switch through the centerhole.
+
+
+## Gallery
+![picture](Gallery_1.jpg)
+
+![picture](Gallery_2.png)
 
 ## Support
 If you need help assembling or have any other questions you are more them welcome in our Discord server. You can join us through this link here: https://discord.gg/MzTR3zE
