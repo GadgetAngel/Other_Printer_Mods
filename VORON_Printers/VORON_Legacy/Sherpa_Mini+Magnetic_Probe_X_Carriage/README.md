@@ -11,12 +11,12 @@ This toolhead allows mounting for a lightweight and powerfull Sherpa Mini extrud
 For more pictures see the folder
 
 ## Hardware needed:
--17x M3x4 heatinserts
--5x DIN912 M3x35
--4x DIN912 M3x12
--8x DIN912 M3x8
--2x M2x8 self tapping screw
--Omron D2F-5 (No substitutes!)
+- 17x M3x4 heatinserts
+- 5x DIN912 M3x35
+- 4x DIN912 M3x12
+- 8x DIN912 M3x8
+- 2x M2x8 self tapping screw
+- Omron D2F-5 (No substitutes!)
 
 ## Resources
 Sherpa mini and hotend toolheads: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
