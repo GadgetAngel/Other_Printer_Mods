@@ -11,12 +11,12 @@ MGN12H version is based  on the VoronUsers [MGN12 mod by Arkeet](https://github.
 
 
 ## Hardware needed:
--4x M3 nut
--2x M2x8 self tapping screw
--10x 6x3 magnets
--Omron D2F-5 (No substitutes!)
--4x DIN912 M3x12
--2x DIN912 M3x8
+- 4x M3 nut
+- 2x M2x8 self tapping screw
+- 10x 6x3 magnets
+- Omron D2F-5 (No substitutes!)
+- 4x DIN912 M3x12
+- 2x DIN912 M3x8
 
 ## Resources
 Installation instructions magprobe: https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
