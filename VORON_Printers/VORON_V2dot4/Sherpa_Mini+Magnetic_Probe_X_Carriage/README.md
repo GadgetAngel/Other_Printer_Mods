@@ -1,18 +1,32 @@
-Sherpa Mini Toolhead for the V2.4 3D printer
+## Sherpa Mini Toolhead for the V2.4 3D printer
 
-This carriage is compatible with both microswitch endstops and hall effect board. Both IGUS and Generic cable chains are supported. 
-The PL-0X probe has been changed to a microswitch probe. This new probe is completely solderless and has many benefits such as actually probing the surface of the buildplate. The dock can be mounted stationary or onto the gantry (See the experimental folder).
-For pickup detection probe_query or a circuit with the dock can be made. Crimp two male SM2.54 on a cable to connect the magnets of the x carriage.
-No buildvolume is lost since the probe can be docked in the 10mm y overtravel of the V2.4. A bigger rear exhaust has also been realized for the hotend cooling fan. All toolheads such as the Dragon/Mosquito/V6 are supported.
+![picture](Images/1.PNG)
 
 
-Hardware needed:
--7x M3x4 heatinserts
--4x DIN912 M3x30
--8x DIN912 M3x12
--4x M3 nut
--2x M2x8 self tapping screw
--6x 6x3 magnets
--Omron D2F-5 (No substitutes!)
+## What is it?
+This toolhead allows mounting for a lightweight and powerfull Sherpa Mini extruder on a V2.4. It comes with support for a magprobe instead of the inductive probe. The total weight has been reduced too. A bigger rear exhaust has also been realized for the hotend cooling fan. All toolheads such as the Dragon/Mosquito/V6 are supported. All microswitch, halleffect, IGUS and Generic cable chain options are supported too. No buildvolume is lost since the probe can be docked in the 10mm y overtravel of the V2.4.
 
-For pictures see the folder
+This new probe is completely solderless and has many benefits such as actually probing the surface of the buildplate and great repeatability. The dock can be mounted stationary or onto the gantry (See the experimental folder).
+![picture](Images/4.PNG)
+
+For more pictures see the folder
+
+## Hardware needed:
+- 7x M3x4 heatinserts
+- 4x DIN912 M3x30
+- 8x DIN912 M3x12
+- 4x M3 nut
+- 2x M2x8 self tapping screw
+- 6x 6x3 magnets
+- Omron D2F-5 (No substitutes!)
+
+## Resources
+Sherpa mini and hotend toolheads: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+
+Installation instructions magprobe: https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
+ 
+
+## Discord
+Do you have any design suggestions or ideas? We would love to hear! You can join us at https://discord.gg/MzTR3zE
+
+
