@@ -7,7 +7,13 @@ Summarized the magprobe is a microswitch that can dock and undock on the toolhea
 
 Currently the magprobe is a lot smaller, completely solderless and has macro's for automatic docking and undocking with failsafes. You can mount the dock on the bed or to the gantry. Mounting to the bed is more hidden but is more sensitive to misalignment. Many machines are already supported like the K1, K2, K3, V0, V1, V2, Legacy and Switchwire. Even more when you count in the mods that are made by other people.
 
-Testing has shown the best switch for repeatability is the Omron D2F-5. You can also order the 5L model and remove the lever. A high temp substitute can be the Honeywell 411SX21-T. Downsides are is that its a lot more expensive and performs the same or worse. A genuine Omron D2F should get you easily 1000H of use. Replacing the magprobe in your machine is a matter of seconds.
+Testing has shown the best switch for repeatability is the Omron D2F-5. You can also order the 5L model and remove the lever. A high temp substitute can be the Honeywell 411SX21-T. Downsides are is that its a lot more expensive and performs the same or worse. A genuine Omron D2F-5 should get you easily 1000H of use. Replacing the magprobe in your machine is a matter of seconds.
+
+## Drop in replacement for PL-08N2 and similar
+If you want to test the magprobe quickly there is a drop in replacement for the PL-08N2 and similar. We recommend to always use the carriages with baked in magprobe support. The magprobe will be closer and aligned to the nozzle, total weight lower, magnets further away from the buildplate and often comes with a bigger hotend cooling exhaust.
+
+![picture](Images/Drop_in_replacement.jpg)
+![picture](Images/Drop_in_replacement_2.jpg)
 
 ## Software
 It is recommended to run Klipper (https://github.com/KevinOConnor/klipper). As of today theres already a macro available in the folders. We are working on an integrated klipper module.
@@ -24,7 +30,7 @@ If you want to make use of probe dock detection crimp a male SM2.54 connector on
 ![picture](Images/Instructions_2.png)
 
 
-Its recommended to cut the center pin short on the switch. If you ever please to disassemble you can push out the switch through the centerhole.
+Its recommended to cut the center pin short on the switch. If you ever please to disassemble you can push out the switch through this centerhole.
 
 
 ## Gallery
