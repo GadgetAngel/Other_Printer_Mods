@@ -11,4 +11,4 @@ The standard VORON2 purchased parts minus the above
 
 The links above are affiliate links, feel free to use them if you want to.
 
-![Image of Z Drive with Metal Gears](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/VORON_V2/All_Metal_Gear_Z_Drive/Images/Whole_Drive_Assembly.png?raw=true)
+![Image of Z Drive with Metal Gears](/Images/Whole_Drive_Assembly.png?raw=true)
