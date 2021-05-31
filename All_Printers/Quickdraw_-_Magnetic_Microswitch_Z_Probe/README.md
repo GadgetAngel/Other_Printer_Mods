@@ -1,5 +1,4 @@
-# ANNEX Microswitch probe
-
+# Quickdraw - The Magnetic Microswitch Z Probe
 ![picture](Images/Evolution.jpg)
 
 ## What is it?
@@ -19,6 +18,9 @@ If you want to test the magprobe quickly there is a drop in replacement for the 
 It is recommended to run Klipper (https://github.com/KevinOConnor/klipper). As of today theres already a macro available in the folders. We are working on an integrated klipper module.
 
 ## General installation instructions
+
+Papejelly has made a video that can be found here: https://youtu.be/PIuCA7_hurs
+
 To assemble the magprobe push in the 2 6x3mm magnets against the pin of the switch. (Use the Omron D2F-5 or D2F 5L with lever removed. No substitutes) 
 
 At the carriage side make 2 stacks of alternating polarity (it helps undocking). Crimp a male SM2.54 connector onto a cable and slide it against the magnets flush.
