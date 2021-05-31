@@ -19,7 +19,7 @@ It is recommended to run Klipper (https://github.com/KevinOConnor/klipper). As o
 
 ## General installation instructions
 
-Papejelly has made a video that can be found here: https://youtu.be/PIuCA7_hurs
+Papejelly has made a video that can be found here: https://youtu.be/zLjfP3BHAIw
 
 To assemble the magprobe push in the 2 6x3mm magnets against the pin of the switch. (Use the Omron D2F-5 or D2F 5L with lever removed. No substitutes) 
 
