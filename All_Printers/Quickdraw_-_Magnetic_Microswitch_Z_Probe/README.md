@@ -1,4 +1,4 @@
-# The Quickdraw Microswitch Z Probe
+# The Quickdraw Probe: A Magneticly Coupled, Microswitch Driven, Z Probe
 
 ![picture](Images/Evolution.jpg)
 
