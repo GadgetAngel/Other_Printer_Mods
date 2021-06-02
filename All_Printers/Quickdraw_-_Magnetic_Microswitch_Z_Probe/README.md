@@ -1,4 +1,4 @@
-# ANNEX Microswitch probe
+# The Quickdraw Microswitch Z Probe
 
 ![picture](Images/Evolution.jpg)
 
