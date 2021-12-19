@@ -17,6 +17,12 @@ Both hallefect and microswitch endstops are supported. See the stl folder for wh
 
 ![picture](Images/2.jpg)
 
+## Changes from revision 2:
+
+To avoid overtensioning fins have been added that will limit the force and keep the block undamaged. Furthermore an insert has been added to the spacer so that it can be pulled with a long screw if one manages to get it stuck.
+
+![picture](Images/Revision3.png)
+
 ## Parts needed
 - 4x 02152 ball head screws
 - 4x DIN913/ISO4026 M10x20 (flat end)
