@@ -12,9 +12,9 @@ They hold panels against the aluminum extrusions with a twist lock. They require
 
 The number in the filename is the thickness of the panel to secure. A panel of 3mm with 1mm of foam will be a total of 4mm.
 You need two keys per corner clip, and one per single clip. For a 4mm thick panel with 4 corner clips and 4 single clips you would print:
- - panel_clips_and_corners/corner/STL/corner_lock_body_4.STL × 4
- - panel_clips_and_corners/single/STL/lock_body_4mm.STL × 4
- - panel_clips_and_corners/key/STL/key_asymmetric_4.STL × 12
+ - panel_clips_and_corners/corner/STL/corner_lock_body_4.STL ×4
+ - panel_clips_and_corners/single/STL/lock_body_4mm.STL ×4
+ - panel_clips_and_corners/key/STL/key_asymmetric_4.STL ×12
 
 ## Hinges
 
